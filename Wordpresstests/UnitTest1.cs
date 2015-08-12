@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using WordpressAutomation;
 
 namespace Wordpresstests
 {
@@ -9,6 +10,8 @@ namespace Wordpresstests
         [TestMethod]
         public void TestMethod1()
         {
+            var c = new Class1();
+            c.Go();
         }
     }
 }

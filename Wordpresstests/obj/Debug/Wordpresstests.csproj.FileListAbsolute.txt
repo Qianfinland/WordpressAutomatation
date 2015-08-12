@@ -1,0 +1,9 @@
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\Wordpresstests.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\Wordpresstests.pdb
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\WordpressAutomation.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\WebDriver.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\WordpressAutomation.pdb
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\bin\Debug\WebDriver.xml
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\obj\Debug\Wordpresstests.csprojResolveAssemblyReference.cache
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\obj\Debug\Wordpresstests.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\Wordpresstests\obj\Debug\Wordpresstests.pdb

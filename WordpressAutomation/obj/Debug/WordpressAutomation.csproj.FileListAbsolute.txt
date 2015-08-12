@@ -1,0 +1,9 @@
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.pdb
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.xml
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.dll
+C:\Users\Qian.Zhou\Documents\Visual Studio 2013\Projects\SeleniumPractice\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.pdb
